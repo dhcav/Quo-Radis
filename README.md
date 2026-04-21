@@ -6,6 +6,7 @@ Created by Damian Cavanagh in January 2026
 - You can download this Shortcut [here](https://github.com/dhcav/Quo-radis/raw/refs/heads/main/Quo-radis.shortcut)
 - It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
 
+## Description
 This Shortcut for mobile devices assists with mobile device deployment sessions:
 1. Select an existing Jamf Pro user group
 2. Scan QR code of device serial
