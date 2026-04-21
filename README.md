@@ -20,6 +20,6 @@ Third party app requirement:
 - PocketMDM - https://apps.apple.com/au/app/pocketmdm/id6751423971
 
 Privileges required:
-Read User Groups
-Read Mobile Devices
-Update Mobile Devices
+- Read User Groups
+- Read Mobile Devices
+- Update Mobile Devices
