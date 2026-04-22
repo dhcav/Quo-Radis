@@ -3,8 +3,7 @@
 Created by Damian Cavanagh in January 2026
 
 ## Download This Shortcut
-- You can download this Shortcut [here](https://github.com/dhcav/Quo-radis/raw/refs/heads/main/Quo-radis.shortcut)
-- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+- Note @ 22/4: Shortcut will be uploaded soon!
 
 ## Description
 This Shortcut for mobile devices assists with mobile device deployment sessions:
