@@ -18,7 +18,7 @@ This Shortcut for mobile devices assists with mobile device deployment sessions:
 Third party app requirement: 
 - PocketMDM - https://apps.apple.com/au/app/pocketmdm/id6751423971
 
-Privileges required:
+Jamf Pro User Account/API Client Privileges required:
 - Read User Groups
 - Read Mobile Devices
 - Update Mobile Devices
